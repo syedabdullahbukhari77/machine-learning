@@ -1,0 +1,3 @@
+[submodule "MySQL-Python"]
+	path = MySQL-Python
+	url = https://github.com/syedabdullahbukhari77/MySQL-Python
